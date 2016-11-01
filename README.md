@@ -1,2 +1,2 @@
 # GtunerPRO
-Gtuner PRO - Titan One's software bug report.
+Gtuner PRO - Titan One's software and plugins bug report.
